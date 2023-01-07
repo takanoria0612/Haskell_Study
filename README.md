@@ -1,2 +1,7 @@
 # Haskell_Study
- Study Haskell
+ 
+#Haskell の処理系
+ ##GHC/The Glasgow Haskell Compiler
+
+ GHCはコンパイラや対話的インタープリタを持つシステム。
+ デファクトスタンダードとなっている。

@@ -1,3 +1,5 @@
-import Data.Time
+-- main = putStrLn "Hello, world!"
 
-main = getCurrentTime >>= print
+main = do putStrLn "Red"
+          putStrLn "Green"
+          putStrLn "Blue"
